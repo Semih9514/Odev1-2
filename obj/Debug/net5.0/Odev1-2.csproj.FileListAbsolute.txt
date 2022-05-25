@@ -1,0 +1,16 @@
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.AssemblyInfoInputs.cache
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.AssemblyInfo.cs
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\Odev1-2\bin\Debug\net5.0\Odev1-2.exe
+C:\Users\Semih\Desktop\Odev1-2\bin\Debug\net5.0\Odev1-2.deps.json
+C:\Users\Semih\Desktop\Odev1-2\bin\Debug\net5.0\Odev1-2.runtimeconfig.json
+C:\Users\Semih\Desktop\Odev1-2\bin\Debug\net5.0\Odev1-2.runtimeconfig.dev.json
+C:\Users\Semih\Desktop\Odev1-2\bin\Debug\net5.0\Odev1-2.dll
+C:\Users\Semih\Desktop\Odev1-2\bin\Debug\net5.0\ref\Odev1-2.dll
+C:\Users\Semih\Desktop\Odev1-2\bin\Debug\net5.0\Odev1-2.pdb
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.dll
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\ref\Odev1-2.dll
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.pdb
+C:\Users\Semih\Desktop\Odev1-2\obj\Debug\net5.0\Odev1-2.genruntimeconfig.cache
